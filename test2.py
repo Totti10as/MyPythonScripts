@@ -1,2 +1,2 @@
-#! comment
+
 print('Hello world')
